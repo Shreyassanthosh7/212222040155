@@ -68,7 +68,9 @@ This is a full-stack URL Shortening application built with:
 ### 1. Clone the repo
 
 bash
+
 git clone (https://github.com/Shreyassanthosh7/212222040155).git
+
 cd 212222040155
 `
 
